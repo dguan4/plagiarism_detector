@@ -1,4 +1,5 @@
 import sys
+from os.path import isfile
 
 
 def help_usage():
@@ -62,6 +63,9 @@ def detect(synonym, file1, file2, num_tuple):
     :param num_tuple: the N tuple, default is 3
     :return: prints the percentage match between both files
     """
+    if not isfile(file1) or not isfile(file2) or not isfile(synonym):
+        print("Invalid file name, please try again")
+        return
     file1 = open(file1)
     file2 = open(file2)
     file1_list = []
@@ -82,8 +86,7 @@ def detect(synonym, file1, file2, num_tuple):
             if compare_tuples(tuple1, tuple2, synonyms):
                 match += 1
                 break
-    print(file1_list, file2_list, match)
-    print("{}%".format(match/(max(len(file1_list), len(file2_list))) * 100))
+    print("{0:.2f}%".format(match/(max(len(file1_list), len(file2_list))) * 100))
 
 
 if __name__ == "__main__":

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dd4a37e-39d5-4762-a5d9-e19eb3d2e6cd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/synonyms12.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file12.txt" afterPath="$PROJECT_DIR$/file12.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file13.txt" afterPath="$PROJECT_DIR$/file13.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plagiarismDetector.py" afterPath="$PROJECT_DIR$/plagiarismDetector.py" />
     </list>
     <ignored path="TripAdvisor.iws" />
@@ -31,9 +29,11 @@
       <file leaf-file-name="plagiarismDetector.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/plagiarismDetector.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5672269">
-              <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
-              <folding />
+            <state vertical-scroll-proportion="2.7731092">
+              <caret line="88" column="17" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/file12.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -52,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/file13.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -116,9 +116,9 @@
         <option value="$PROJECT_DIR$/synonyms.txt" />
         <option value="$PROJECT_DIR$/file1.txt" />
         <option value="$PROJECT_DIR$/file2.txt" />
-        <option value="$PROJECT_DIR$/file12.txt" />
-        <option value="$PROJECT_DIR$/file13.txt" />
         <option value="$PROJECT_DIR$/synonyms12.txt" />
+        <option value="$PROJECT_DIR$/file13.txt" />
+        <option value="$PROJECT_DIR$/file12.txt" />
         <option value="$PROJECT_DIR$/plagiarismDetector.py" />
       </list>
     </option>
@@ -445,6 +445,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/file13.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file12.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/synonyms12.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -453,27 +469,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/file13.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file12.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plagiarismDetector.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5672269">
-          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
-          <folding />
+        <state vertical-scroll-proportion="2.7731092">
+          <caret line="88" column="17" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
